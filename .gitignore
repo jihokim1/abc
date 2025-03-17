@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,flutter,dart
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,flutter,dart
+# Created by https://www.toptal.com/developers/gitignore/api/flutter,windows,dart
+# Edit at https://www.toptal.com/developers/gitignore?templates=flutter,windows,dart
 
 ### Dart ###
 # See https://www.dartlang.org/guides/libraries/private-files
@@ -119,4 +119,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,flutter,dart
+# End of https://www.toptal.com/developers/gitignore/api/flutter,windows,dart
